@@ -1,0 +1,13 @@
+psutil: For system and process monitoring (to detect suspicious processes and resources).
+
+pynput: To capture keystrokes (keylogger detection).
+
+tkinter: For creating the graphical user interface (GUI).
+
+subprocess: To interact with system processes (like querying antivirus using Windows Management Instrumentation).
+
+time: For tracking keystroke timings (built-in module).
+
+os: For interacting with the operating system (checking file existence, directories, etc. - built-in module).
+
+threading: To run the detection and keystroke monitoring concurrently (built-in module).
